@@ -10,6 +10,6 @@ for i in names:
 names = "Ralph"
 for character in names:
     print(character) # Prints every character in each string
-
+ 
     
 

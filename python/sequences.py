@@ -2,7 +2,7 @@
 ## List - sequence of mutable values
 ## tuple - sequence of immutable values
 ## set - collection of unique values
-## dict - collection of key-value pairs
+## dictionary - collection of key-value pairs
 
 names = ["Harry", "Ron","Ralph"] ## List
 
